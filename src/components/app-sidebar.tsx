@@ -31,7 +31,7 @@ const data = {
 
 
   return (
-    <Sidebar {...props}>a
+    <Sidebar {...props}>
       <SidebarHeader>
         <Logo />
       </SidebarHeader>
